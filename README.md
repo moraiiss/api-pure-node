@@ -1,6 +1,6 @@
 ## Descrição V1
 
-Projeto de uma REST API de usuários simples com NodeJS puro, sem framework e sem banco de dados
+Projeto de uma REST API de usuários simples com NodeJS puro, sem frameworks, sem pacotes externos e sem banco de dados
 
 ## Estrutura
 
