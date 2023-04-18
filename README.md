@@ -1,6 +1,6 @@
 ## Descrição V1
 
-Projeto de uma REST API de usuários simples com NodeJS puro, sem frameworks, sem pacotes externos e sem banco de dados
+Projeto de uma REST API de usuários simples com NodeJS puro, <strong>sem frameworks, sem pacotes externos e sem banco de dados</strong>
 
 ## Estrutura
 
@@ -18,7 +18,7 @@ helpers/
 mocks /
 
 # configurações
-indes.js
+index.js
 
 # rotas com handler para os controllers
 routes.js
