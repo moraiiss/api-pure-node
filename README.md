@@ -8,18 +8,18 @@ Projeto de uma REST API de usuários simples com NodeJS puro, <strong>sem framew
 # todo o código do projeto
 src/
 
-# regra de negócios para os métodos
-controllers/
+  #regra de negócios para os métodos
+  controllers/
 
-# arquivo para fazer o bodyParser de métodos POST e PUT
-helpers/
+  #arquivo para fazer o bodyParser de métodos POST e PUT
+  helpers/
 
-# arquivo com os dados
-mocks /
+  #arquivo com os dados
+  mocks /
 
-# configurações
-index.js
+  #configurações
+  index.js
 
-# rotas com handler para os controllers
-routes.js
+  #rotas com handler para os controllers
+  routes.js
 ```
